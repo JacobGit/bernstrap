@@ -1,3 +1,18 @@
+# ABOUT BERNSTRAP:
+
+Bernstrap contains all the same functionality of the Bootstrap we know and love, but will update all links on your webpage to take you to [feelthebern.org](http://feelthebern.org).
+
+To use:
+
+1. Download the zip file of Bernstrap and uncompress;
+2. Instead of hooking your page up to the minified js file, use the unminified version (dist/js/bootstrap.js)
+
+This was a fun 10min side-project thought up by myself and a coworker, in support of Senator Bernie Sanders' bid for President.
+
+
+
+
+
 # [Bootstrap](http://getbootstrap.com)
 
 [![Slack](https://bootstrap-slack.herokuapp.com/badge.svg)](https://bootstrap-slack.herokuapp.com)
