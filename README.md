@@ -7,7 +7,7 @@ To use:
 1. Download the zip file of Bernstrap and uncompress;
 2. Instead of hooking your page up to the minified js file, use the unminified version (dist/js/bootstrap.js)
 
-This was a fun 10min side-project thought up by myself and a coworker, in support of Senator Bernie Sanders' bid for President.
+This was a silly 10min idea thought up by myself and a coworker, in support of Senator Bernie Sanders' bid for President.
 
 
 
